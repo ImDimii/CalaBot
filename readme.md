@@ -42,7 +42,7 @@
 | Max perdite consecutive | 3 |
 | Qualità modello | 85.61% |
 
-> 📸 ![Backtest Results](./screenshots/backtest.png)
+> 📸 ![Backtest Results](./backtest1.png)
 
 ***
 
@@ -207,7 +207,7 @@ XAUUSD_Scalper/
 | Max consecutive losses | 3 |
 | Model quality | 85.61% |
 
-> 📸 ![Backtest Results](./screenshots/backtest.png)
+> 📸 ![Backtest Results](./backtest1.png)
 
 ***
 
